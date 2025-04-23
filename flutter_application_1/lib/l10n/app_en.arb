@@ -1,0 +1,20 @@
+{
+  "profileTitle": "Curriculum Vitae",
+  "@profileTitle": {},
+  "name":"Brice Seraphin",
+  "@name": {},
+  "job":"Product & Print Designer",
+  "@job": {},
+  "location":"Paris, France",
+  "@location": {},
+  "summary":"title",
+  "@summary": {},
+  "selectedLanguage":"Selected Language",
+  "enLanguage":"English",
+  "faLanguage":"farsi",
+  "skills":"skills",
+  "personalInformation":"Personal Information",
+  "email":"Email",
+  "password":"Password",
+  "save":"Save"
+}

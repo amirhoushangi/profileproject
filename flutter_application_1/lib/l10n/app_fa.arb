@@ -1,0 +1,15 @@
+{
+    "profileTitle": "صفحه پروفایل",
+    "name":"برایس سرافین",
+    "job":"مدیر و طراح محصول",
+    "location":"پاریس , فرانسه",
+    "summary":"داده",
+    "selectedLanguage":"انتخاب زبان",
+  "enLanguage":"انگلیسی",
+  "faLanguage":"فارسی",
+  "skills":"مهارت ها",
+  "personalInformation":"اطلاعات فردی",
+  "email":"ایمیل",
+  "password":"رمز عبور",
+  "save":"ذخیره"
+  }
